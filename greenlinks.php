@@ -1,6 +1,6 @@
 <?php
 /**
- * 绿链生成
+ * 绿链接生成
  *
  * @package custom
  *
@@ -49,7 +49,7 @@
             <span class="panel-title">绿色短域名</span></h6>
         </div>
         <div class="panel-body">
-          <form action="greensafe.html?qq=" method="GET">
+          <form action="greenlinks.html?qq=" method="GET">
             <input type="text" style="background: rgba(255, 251, 251, 0.7)" class="form-control" name="url" placeholder="请输入需要生成的网址">
             <br>
             <input type="submit" class="btn btn-primary btn-block" value="开始生成"></form>
