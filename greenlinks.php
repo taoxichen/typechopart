@@ -1,6 +1,6 @@
 <?php
 /**
- * V链接生成
+ * 绿链生成
  *
  * @package custom
  *
